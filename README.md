@@ -1,2 +1,16 @@
-# SIEM-Detection-Engineering-Alert-Triage-SOC-Operations
-SIEM Architecture, Detection Engineering, Alert Triage, Threat Intelligence and SOC Operations Lab
+Project 4: SIEM Detection Engineering, Alert Triage & SOC Operations
+
+A SOC-focused project covering SIEM architecture, log onboarding, detection engineering, alert triage, threat intelligence, and security operations through practical lab exercises.
+
+👥 Project Team
+
+Name	Role
+عمر خالد 
+مينا وليم
+محمد هليل
+جمال
+
+
+
+
+

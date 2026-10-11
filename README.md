@@ -4,10 +4,10 @@ A SOC-focused project covering SIEM architecture, log onboarding, detection engi
 
 👥 Project Team
 
-Name	Role
-عمر خالد 
-مينا وليم
-محمد هليل
+
+عمر خالد- 
+مينا وليم-
+محمد هليل-
 جمال
 
 
